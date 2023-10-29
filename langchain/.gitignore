@@ -481,6 +481,9 @@ chat_models/fireworks.d.ts
 chat_models/baiduwenxin.cjs
 chat_models/baiduwenxin.js
 chat_models/baiduwenxin.d.ts
+chat_models/chatglm.cjs
+chat_models/chatglm.js
+chat_models/chatglm.d.ts
 chat_models/ollama.cjs
 chat_models/ollama.js
 chat_models/ollama.d.ts
